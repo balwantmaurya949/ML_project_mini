@@ -1,5 +1,9 @@
 pandas
 numpy
 seaborn
--e .   '''this will automatically trigger setip.py'''
-        ''' -e. is indication that setup.py file is there'''
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .   '''this will automatically trigger setip.py'''
+#        ''' -e. is indication that setup.py file is there'''
